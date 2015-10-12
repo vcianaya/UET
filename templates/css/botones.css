@@ -1,0 +1,24 @@
+ /*ESTILOS DE BOTONES Y MENSAJES*/
+.botones{
+  border: 1px solid #666;
+  background: #666;
+  height: 20px;
+  width: auto;
+  border-radius: 4px 4px 4px 4px;
+  -webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius: 4px 4px 4px 4px;
+  -ms-border-radius: 4px 4px 4px 4px;
+  font-weight: bold;
+  font-family: arial;
+  color: #000;
+}
+.botones:hover{
+  height: 21px;
+  background: #990033;
+  border: 1px solid #990033;
+  border-radius: 4px 4px 4px 4px;
+  -webkit-border-radius: 4px 4px 4px 4px;
+  -moz-border-radius: 4px 4px 4px 4px;
+  -ms-border-radius: 4px 4px 4px 4px;
+  color: #fff;
+}

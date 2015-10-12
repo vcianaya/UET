@@ -1,0 +1,40 @@
+.txtfields{
+	font-size: 11px;
+	color: #424242;
+	border: 1px solid #848484;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-moz-border-radius: 3px;
+	padding: 2px 2px 2px 5px;
+	height: 25px;
+	width: 170px;
+	text-transform: uppercase;
+}
+.txtfields.large{
+	height: 25px;
+	width: 533px;
+}
+.txtfields.large2{
+	height: 50px;
+	width: 533px;
+}
+.txtfields:hover{
+	border: 2px solid #DF7401;
+}
+.lblname{
+	font-size: 12px;
+	color: #6E6E6E;
+	font-style: normal;
+	font-family:inherit;
+	font-weight: bolder;
+}
+.fldcuerpo{
+	width: 700px;
+	padding: 15px;
+	border:1px solid #039;
+	border-radius: 4px;
+	color: #039;
+	font-style: normal;
+	font-weight: bolder;
+}
